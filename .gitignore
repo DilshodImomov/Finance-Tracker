@@ -1,0 +1,23 @@
+# dependencies
+**/node_modules
+
+# build output
+**/.next
+**/.vercel
+**/coverage
+**/build
+**/dist
+**/out
+
+# env files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# logs / system
+*.log
+.DS_Store
+*.tsbuildinfo
