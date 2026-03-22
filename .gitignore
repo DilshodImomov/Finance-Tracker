@@ -21,3 +21,6 @@
 *.log
 .DS_Store
 *.tsbuildinfo
+
+# local agent notes
+AGENT.md
